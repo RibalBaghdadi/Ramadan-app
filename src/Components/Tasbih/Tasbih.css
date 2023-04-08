@@ -1,0 +1,31 @@
+.container {
+  background-image: url("https://th.bing.com/th/id/OIP.XfL39yb85UwOxxiFyM2lTwHaHa?pid=ImgDet&rs=1");
+  border-radius: 180px;
+  width: 200px;
+  text-align: center;
+  padding: 50px;
+  position: absolute;
+  display: "flex";
+  alignitems: "center";
+  margin: 90px;
+  margin-left: 500px;
+  margin-bottom: 1000px;
+}
+
+.nb {
+  font-size: 50px;
+  color: yellow;
+}
+
+.btn {
+  font-size: 20px;
+  margin: 5px;
+}
+
+.hd {
+  color: yellow;
+  padding: 0px;
+  text-align: center;
+  font-size: 50px;
+  margin: 0px
+}

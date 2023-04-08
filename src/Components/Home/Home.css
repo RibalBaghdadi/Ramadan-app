@@ -1,0 +1,26 @@
+.head {
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+.p {
+    color: yellow;
+    padding:10px;
+    text-align:center;
+    font-size: 30px;
+}
+
+.img {
+    width: 170px;
+    height: 171px;
+    padding: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: 530px;
+    border-radius: 180px
+    
+}
+

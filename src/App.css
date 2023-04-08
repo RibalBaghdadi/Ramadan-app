@@ -1,0 +1,13 @@
+a.active {
+  color: yellow;
+}
+
+a{
+  color: white;
+  margin:10px;
+  text-decoration : none;
+}
+
+a:hover {
+  color: darkviolet;
+}
